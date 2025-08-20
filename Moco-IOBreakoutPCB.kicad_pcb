@@ -108,7 +108,7 @@
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
 		(layer "F.Cu")
 		(uuid "95d0251e-5625-4827-acbb-02c03493818d")
-		(at 177.5 55.5)
+		(at 177.5 58)
 		(descr "Mounting Hole 3.2mm, no annular, M3")
 		(tags "mounting hole 3.2mm no annular m3")
 		(property "Reference" "REF**"
@@ -206,7 +206,7 @@
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
 		(layer "F.Cu")
 		(uuid "e871f33b-aacc-42b2-8e41-7bf7a6643c2c")
-		(at 117 55.5)
+		(at 117 58)
 		(descr "Mounting Hole 3.2mm, no annular, M3")
 		(tags "mounting hole 3.2mm no annular m3")
 		(property "Reference" "REF**"
@@ -1048,13 +1048,13 @@
 	(footprint "UTSVT_Connectors:Molex_Microfit3.0_02x07_14-Pin-Vertical-PCB-Receptacle_447691401"
 		(layer "B.Cu")
 		(uuid "9db86dd8-ee52-4079-adb9-81aec743b77e")
-		(at 166 60.45 180)
+		(at 166 58 180)
 		(tags "447691401 ")
 		(property "Reference" "J1"
 			(at 8.999997 1.5 0)
 			(unlocked yes)
 			(layer "B.SilkS")
-			(uuid "9be677e8-757c-47b9-825b-0c13fd0bfbcc")
+			(uuid "eda13a17-7850-4637-a77d-13e405ea6427")
 			(effects
 				(font
 					(size 1 1)
@@ -1067,7 +1067,7 @@
 			(at 8.999997 1.5 0)
 			(unlocked yes)
 			(layer "B.Fab")
-			(uuid "339b7afa-bbad-4dca-871b-370672fb95ee")
+			(uuid "1a036ed2-ee47-4b02-a13b-78fb9d885b84")
 			(effects
 				(font
 					(size 1 1)
@@ -1080,7 +1080,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "d1336498-d8ea-4312-925f-7872effb082a")
+			(uuid "11b3d1d7-1bf4-49e2-abec-1c2db5da1a3b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1093,7 +1093,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "c38b9676-d4e7-48c7-b7eb-e973cf5ff429")
+			(uuid "4f17dacf-43a5-4e35-838b-48d0b1ccfc69")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1792,13 +1792,13 @@
 	(footprint "UTSVT_Connectors:Molex_Microfit3.0_02x03_6-Pin-Vertical-PCB-Receptacle_447690601"
 		(layer "B.Cu")
 		(uuid "ec8cd34a-960f-4047-9c75-2bd2fb669967")
-		(at 134.5 60.399999 180)
+		(at 134.5 57.949999 180)
 		(tags "447690601 ")
 		(property "Reference" "J5"
 			(at 2.999999 1.5 0)
 			(unlocked yes)
 			(layer "B.SilkS")
-			(uuid "5fbd5d9c-919e-423d-a8d2-a7a4a0e44f1b")
+			(uuid "aaefbba8-5d10-4188-9da0-6fd969e9b2b7")
 			(effects
 				(font
 					(size 1 1)
@@ -1811,7 +1811,7 @@
 			(at 2.999999 1.5 0)
 			(unlocked yes)
 			(layer "B.Fab")
-			(uuid "ce4875da-a805-482e-9233-6b9d03244f58")
+			(uuid "92a2c0fe-cec0-4761-b91b-8f6972556dd3")
 			(effects
 				(font
 					(size 1 1)
@@ -1824,7 +1824,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "47fa315c-a9d0-487a-a851-d51d045bc6b7")
+			(uuid "9a3f44dc-a3e1-4228-8058-7c8ba9d481bd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1837,7 +1837,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "0c805d1c-4dc6-41fe-b7b4-dacfa70866ff")
+			(uuid "4791cf60-7db6-4148-ad4e-f0f4c0660c43")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4378,9 +4378,9 @@
 		(uuid "122caab6-e7c4-4f4f-8a86-ced8dd2e5c05")
 	)
 	(gr_arc
-		(start 113.5 55)
-		(mid 114.37868 52.87868)
-		(end 116.5 52)
+		(start 113.5 53.469675)
+		(mid 114.37868 51.348355)
+		(end 116.5 50.469675)
 		(stroke
 			(width 0.2)
 			(type default)
@@ -4389,7 +4389,7 @@
 		(uuid "419f8083-8845-41ff-be09-92dbfb5a5ae2")
 	)
 	(gr_line
-		(start 181 55.06065)
+		(start 181 53.530325)
 		(end 181 61.5)
 		(stroke
 			(width 0.2)
@@ -4400,7 +4400,7 @@
 	)
 	(gr_line
 		(start 113.5 61.5)
-		(end 113.5 55)
+		(end 113.5 53.4697)
 		(stroke
 			(width 0.2)
 			(type default)
@@ -4463,9 +4463,9 @@
 		(uuid "97dd3c51-d7ca-461a-ade2-0c8261d72daa")
 	)
 	(gr_arc
-		(start 178 52.06065)
-		(mid 180.12132 52.93933)
-		(end 181 55.06065)
+		(start 178 50.530325)
+		(mid 180.12132 51.409005)
+		(end 181 53.530325)
 		(stroke
 			(width 0.2)
 			(type default)
@@ -4485,8 +4485,8 @@
 		(uuid "aa4fbd0f-502c-4e51-bb8c-b90cdecd59d4")
 	)
 	(gr_line
-		(start 116.5 52)
-		(end 178 52.06065)
+		(start 116.5 50.469675)
+		(end 178 50.530325)
 		(stroke
 			(width 0.2)
 			(type default)
