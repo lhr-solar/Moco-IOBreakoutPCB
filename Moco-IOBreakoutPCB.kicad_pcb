@@ -632,7 +632,7 @@
 	(footprint "UTSVT_Connectors:Molex_Microfit3.0_02x07_14-Pin-Vertical-PCB-Receptacle_447691401"
 		(layer "B.Cu")
 		(uuid "917fd379-2ecb-482f-ac41-df95dd757a89")
-		(at 162.125 91.65 180)
+		(at 162.109994 91.699999 180)
 		(tags "447691401 ")
 		(property "Reference" "J2"
 			(at 8.999997 1.5 0)
@@ -1464,13 +1464,13 @@
 	(footprint "UTSVT_Connectors:Molex_Microfit3.0_02x03_6-Pin-Vertical-PCB-Receptacle_447690601"
 		(layer "B.Cu")
 		(uuid "c5412091-612b-41bb-acad-505b8e0b4043")
-		(at 146.075 77.55 180)
+		(at 146.089999 77.709999 180)
 		(tags "447690601 ")
 		(property "Reference" "J4"
 			(at 2.999999 1.5 0)
 			(unlocked yes)
 			(layer "B.SilkS")
-			(uuid "5129ea33-2c7a-47d3-ac13-379921303cf8")
+			(uuid "6398996b-d8f2-4b36-8188-b7df2853018f")
 			(effects
 				(font
 					(size 1 1)
@@ -1483,7 +1483,7 @@
 			(at 2.999999 1.5 0)
 			(unlocked yes)
 			(layer "B.Fab")
-			(uuid "5f02720e-ae0c-4d02-8db0-2e1841831395")
+			(uuid "8c3fbe52-8ee4-46a0-8527-1bd1700f3028")
 			(effects
 				(font
 					(size 1 1)
@@ -1496,7 +1496,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "c2e64f0f-0028-472e-8359-41dbcea13add")
+			(uuid "132b5f5e-d1f2-434d-b783-b348aa940795")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1509,7 +1509,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "f1bcd488-5303-4a5f-a534-0dd1e35aa86f")
+			(uuid "f5524844-463f-45fd-ac60-9657f00102d8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4430,9 +4430,9 @@
 		(uuid "6c1bd9b0-914b-461f-bb4c-6a75c3375a71")
 	)
 	(gr_arc
-		(start 134.5 96)
-		(mid 132.37868 95.12132)
-		(end 131.5 93)
+		(start 136.99868 95.98132)
+		(mid 134.87736 95.10264)
+		(end 133.99868 92.98132)
 		(stroke
 			(width 0.2)
 			(type default)
@@ -4474,9 +4474,9 @@
 		(uuid "9bc1a259-1dea-4153-a22d-7a33b265f47f")
 	)
 	(gr_arc
-		(start 128.5 64.5)
-		(mid 130.62132 65.37868)
-		(end 131.5 67.5)
+		(start 130.99868 64.48132)
+		(mid 133.12 65.36)
+		(end 133.99868 67.48132)
 		(stroke
 			(width 0.2)
 			(type default)
@@ -4506,8 +4506,8 @@
 		(uuid "c6addb9c-f293-4e1d-b268-b2d95d586b25")
 	)
 	(gr_line
-		(start 116.5 64.5)
-		(end 128.5 64.5)
+		(start 116.5 64.481321)
+		(end 130.99868 64.481321)
 		(stroke
 			(width 0.2)
 			(type solid)
@@ -4516,8 +4516,8 @@
 		(uuid "de716d96-a068-45c9-81bf-b8cc9cb11ed4")
 	)
 	(gr_line
-		(start 131.5 67.5)
-		(end 131.5 93)
+		(start 133.99868 67.48132)
+		(end 133.99868 92.98132)
 		(stroke
 			(width 0.2)
 			(type solid)
@@ -4527,7 +4527,7 @@
 	)
 	(gr_line
 		(start 169.5 96)
-		(end 134.5 96)
+		(end 136.99868 95.981319)
 		(stroke
 			(width 0.2)
 			(type default)
