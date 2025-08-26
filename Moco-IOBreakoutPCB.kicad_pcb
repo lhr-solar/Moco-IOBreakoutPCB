@@ -4506,7 +4506,7 @@
 		(uuid "c6addb9c-f293-4e1d-b268-b2d95d586b25")
 	)
 	(gr_line
-		(start 116.5 64.481321)
+		(start 116.5 64.5)
 		(end 130.99868 64.481321)
 		(stroke
 			(width 0.2)
